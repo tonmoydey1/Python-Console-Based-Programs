@@ -1,0 +1,9 @@
+The Railway Reservation System is a console-based Python application that allows users to:
+
+View available trains
+
+Book tickets
+
+Cancel tickets
+
+Check booking status

@@ -1,0 +1,24 @@
+3. Employee Payroll System
+📌 Project Description
+
+Manage employee salary data and calculate monthly payroll.
+
+🧩 Table
+
+employees(emp_id, name, department, salary)
+
+🧪 Practice Questions
+
+Insert employee data.
+
+Display employees from a specific department.
+
+Calculate total salary expense.
+
+Find employee with highest salary.
+
+Update salary by percentage.
+
+Delete employees with salary < 15000.
+
+Sort employees by salary.

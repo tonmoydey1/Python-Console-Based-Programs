@@ -1,0 +1,19 @@
+Database Table
+
+students(id, name, age, course, marks)
+
+🧪 Practice Questions
+
+Create a table using Python SQLite.
+
+Insert student records from user input.
+
+Display all students with marks > 60.
+
+Update marks of a specific student.
+
+Delete a student using ID.
+
+Count total number of students.
+
+Sort students by marks (descending).
